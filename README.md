@@ -8,8 +8,8 @@ As users progress through the quiz, their score updates instantly, and a full sc
 
 ## 🔗 Demo
 
-🌐 **Live Demo:** [Your Deployment Link](#)  
-📽️ **Video Demo on LinkedIn:** [View Post](#)
+🌐 **Live Demo:** [https://anasabdelhakim.github.io/React_Quiz/](#)  
+
 
 ---
 
