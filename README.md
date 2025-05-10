@@ -8,7 +8,7 @@ As users progress through the quiz, their score updates instantly, and a full sc
 
 ## 🔗 Demo
 
-🌐 **Live Demo:** [https://anasabdelhakim.github.io/React_Quiz/](#)  
+🌐 **Live Demo:** [https://anasabdelhakim.github.io/React_Quiz//](#)  
 💻 **GitHub Repository:** [React_Quiz](https://github.com/anasabdelhakim/React_Quiz.git)  
 
 ---
